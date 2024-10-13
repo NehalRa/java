@@ -135,7 +135,8 @@ class HotelManager {
 }
 
 
-public class pltask{
+public class pltask
+{
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
